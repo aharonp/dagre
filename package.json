@@ -1,5 +1,5 @@
 {
-  "name": "dagre",
+  "name": "dagre-lodash-4",
   "version": "0.7.5-pre",
   "description": "Graph layout for JavaScript",
   "author": "Chris Pettitt <cpettitt@gmail.com>",
@@ -9,8 +9,8 @@
     "layout"
   ],
   "dependencies": {
-    "graphlib": "^1.0.5",
-    "lodash": "^3.10.0"
+    "graphlib": "https://github.com/graymur/graphlib",
+    "lodash": "^4.17.4"
   },
   "devDependencies": {
     "benchmark": "^1.0.0",
